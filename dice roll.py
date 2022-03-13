@@ -1,5 +1,10 @@
 import random
 
+'''
+    Author: Aleksandar Arsic
+    Contact email: srpskaitucionica@gmail.com
+    Github: https://github.com/SrpskaITucionica
+'''
 
 def roll_dices_game():
     while True:
