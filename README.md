@@ -7,3 +7,4 @@ Here is the list of available projects:
 - Dice roll game
 - Quadratic equation solver
 - Random password generator
+- Temperature unit converter
