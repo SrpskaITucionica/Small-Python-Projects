@@ -1,5 +1,10 @@
 import random
 
+'''
+    Author: Aleksandar Arsic
+    Contact email: srpskaitucionica@gmail.com
+    Github: https://github.com/SrpskaITucionica
+'''
 
 class Lotto:
 
