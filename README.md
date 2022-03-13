@@ -8,3 +8,4 @@ Here is the list of available projects:
 - Quadratic equation solver
 - Random password generator
 - Temperature unit converter
+- Rock Paper Scissors game
