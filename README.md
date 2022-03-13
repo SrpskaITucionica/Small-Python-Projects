@@ -6,3 +6,4 @@ Here is the list of available projects:
 - Lotto game
 - Dice roll game
 - Quadratic equation solver
+- Password generator
